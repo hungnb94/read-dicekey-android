@@ -66,7 +66,8 @@ android {
 
 dependencies {
     /**  --- DiceKeys --------------------------------------------------------------------------- */
-    implementation "com.github.dicekeys:seeded-crypto-android:$seeded_crypto"
+//    implementation "com.github.dicekeys:seeded-crypto-android:$seeded_crypto"
+    implementation 'com.github.hungnb94:seeded-crypto-android:task~16kb-page-size-2-SNAPSHOT'
     /** ----------------------------------------------------------------------------------------- */
 
     /**  --- Android  --------------------------------------------------------------------------- */
